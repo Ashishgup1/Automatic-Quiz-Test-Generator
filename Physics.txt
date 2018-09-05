@@ -1,0 +1,30 @@
+Question 1: Which instrument is used to measure depth of ocean?
+A)Galvanometer B)Fluxmeter C)Endoscope D)Fathometer 
+Answer: Fathometer
+Question 2: Which instrument is used to measure the power of electric circuit?
+________
+Answer: Wattmeter
+Question 3:Spherometer is the instrument is used to measure curvature of spherical objects.
+True/False
+Answer: True
+Question 4: Which instrument is used to determine the intensity of colours?
+A)Cathetometer B)Chronometer C)Colorimeter D)Commutator 
+Answer: Colorimeter
+Question 5: Which instrument is used to measure sound under water?
+________
+Answer: Hydrophone
+Question 6:Henry Becquerel discovered Diode Bulb.
+True/False
+Answer: False
+Question 7: Light year is a unit of
+A)Time B)Light C)Distance D)Intensity of light 
+Answer: Distance
+Question 8: Newton is used to measure
+________
+Answer: Force
+Question 9:Radian per second is unit of Angle Velocity.
+True/False
+Answer: True
+Question 10:Coulomb is unit of Viscosity.
+True/False
+Answer: False

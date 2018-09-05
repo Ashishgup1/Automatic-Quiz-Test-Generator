@@ -1,0 +1,27 @@
+Question 1: The value of 5 in the number  357.21 is
+A)5 tenths B)5 ones C)5 tens D)5 hundreds 
+Answer: 5 tens
+Question 2: In coordinate geometry, the equation of the x-axis is
+A)y=x B)y=0 C)x=0 D)y=1 
+Answer: y=0
+Question 3: 3x - 4(x + 6) =
+A)x + 6 B)-x - 24 C)7x + 6 D)-7x - 24 
+Answer: -x - 24
+Question 4: Which of the following is the Highest Common Factor of 18, 24 and 36?
+A)6 B)18 C)12 D)15 
+Answer: 6
+Question 5: How many subsets does the set {a, b, c, d, e} have?
+________
+Answer: 32
+Question 6: 40% of 2/3 of a number is 32. What is the number?
+________
+Answer: 120
+Question 7: 935421 x 625 = ?
+________
+Answer: 584638125
+Question 8:37800 is the LCM of 72, 108 and 2100
+True/False
+Question 9:34 is the HCF of 108, 288 and 360
+True/False
+Question 10:195 and 143 are in the ratio 15:11
+True/False
